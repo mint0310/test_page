@@ -37,3 +37,4 @@ python3 flip.py <input_image_path> <output_image_path>
 | 入力画像(input.jpg) | 出力画像(output.jpg) |
 | --- | --- |
 | ![入力画像](./input.jpg) | ![出力画像](./output.jpg) |
+
